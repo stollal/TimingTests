@@ -1,8 +1,8 @@
 #include"sorts.h"
 #include<iostream>
 #include<string>
-#include<stdio>
-class int celebrity(){
+#include<stdio.h>
+class celebrity(){
 public:
 /***
  *This retrieves the Name of the celebrity
