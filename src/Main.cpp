@@ -77,10 +77,10 @@ public:
 		celeb[i][j].getCelebrityName();
 		celeb[i][j].getRateMeetCelebrity();
 		celeb[i][j].getCelebrityMetThem();
-		celeb[i][j].getCelebrityName() > celeb[i][j].getRateMeetCelebrity;
+		celeb[i][j].getCelebrityName() > celeb[i][j].getRateMeetCelebrity();
 		celeb[i][j].getRateMeetCelebrity() > celeb[i][j].getCelebrityMetThem();
 		celeb[i][j].getCelebrityName() > celeb[i][j].getCelebrityMetThem();
-		if(celeb[i][j].getRateMeetCelebrity() == celeb[i][j].getCelebrityMetThem){
+		if(celeb[i][j].getRateMeetCelebrity() == celeb[i][j].getCelebrityMetThem(){
 		celeb[i][j].getCelebrityName();
 		for(unsigned i = 0; i<name.length(); ++i){
 			char c = name.at(0);
